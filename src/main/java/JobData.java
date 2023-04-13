@@ -106,14 +106,6 @@ public class JobData {
                     jobResults.add(job); // add it to jobResults
                 }
             }
-
-
-            //
-
-//            if (aValue.contains(value)) {
-//                jobs.add(row);
-//            }
-
         }
 
         return jobResults;
